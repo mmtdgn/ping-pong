@@ -134,11 +134,11 @@ void Game::AIMovement()
 	}
 	if (m_Ball.getPosition().y < m_AIPad.getPosition().y)
 	{
-		_speed = -3;
+		_speed = -2.75f;
 	}
 	if (m_Ball.getPosition().y > m_AIPad.getPosition().y)
 	{
-		_speed = 3;
+		_speed = 2.75f;
 	}
 
 	m_AIPad.move(0, _speed);

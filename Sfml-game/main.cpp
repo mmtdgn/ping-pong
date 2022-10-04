@@ -7,8 +7,7 @@
 
 int main()
 {
-	// Program entry point.
-	Game game; // Creating our game object.
+	Game game; 
 	game.GetWindow()->SetTargetFrame(60);
 	while (!game.GetWindow()->IsDone()) {
 		game.HandleInput();

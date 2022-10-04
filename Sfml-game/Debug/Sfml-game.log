@@ -1,25 +1,2 @@
-﻿  Game.cpp
-d:\visual studio\source\vs2017repos\test\sfml-game\sfml-game\sfml-game\game.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-d:\visual studio\source\vs2017repos\test\sfml-game\sfml-game\sfml-game\game.cpp(36): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
-          with
-          [
-              T=float
-          ]
-d:\visual studio\source\vs2017repos\test\sfml-game\sfml-game\sfml-game\game.cpp(47): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
-d:\visual studio\source\vs2017repos\test\sfml-game\sfml-game\sfml-game\game.cpp(50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-d:\visual studio\source\vs2017repos\test\sfml-game\sfml-game\sfml-game\game.cpp(88): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
-          with
-          [
-              T=float
-          ]
-d:\visual studio\source\vs2017repos\test\sfml-game\sfml-game\sfml-game\game.cpp(90): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
-          with
-          [
-              T=float
-          ]
-d:\visual studio\source\vs2017repos\test\sfml-game\sfml-game\sfml-game\game.cpp(150): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-  UIManager.cpp
-  Window.cpp
-  main.cpp
-  Generating Code...
+﻿  main.cpp
   Sfml-game.vcxproj -> D:\Visual Studio\Source\VS2017Repos\Test\Sfml-game\Sfml-game\Debug\Sfml-game.exe
