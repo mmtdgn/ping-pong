@@ -1,0 +1,26 @@
+﻿  Game.cpp
+d:\visual studio\source\vs2017repos\test\sfml-game\sfml-game\sfml-game\game.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\visual studio\source\vs2017repos\test\sfml-game\sfml-game\sfml-game\game.cpp(36): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\visual studio\source\vs2017repos\test\sfml-game\sfml-game\sfml-game\game.cpp(47): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+d:\visual studio\source\vs2017repos\test\sfml-game\sfml-game\sfml-game\game.cpp(50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\visual studio\source\vs2017repos\test\sfml-game\sfml-game\sfml-game\game.cpp(88): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\visual studio\source\vs2017repos\test\sfml-game\sfml-game\sfml-game\game.cpp(90): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\visual studio\source\vs2017repos\test\sfml-game\sfml-game\sfml-game\game.cpp(150): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  0 of 183 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Sfml-game.vcxproj -> D:\Visual Studio\Source\VS2017Repos\Test\Sfml-game\Sfml-game\Release\Sfml-game.exe

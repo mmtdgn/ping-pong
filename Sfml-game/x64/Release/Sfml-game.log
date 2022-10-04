@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\visual studio\source\vs2017repos\test\sfml-game\sfml-game\sfml-game\main.cpp(1): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  TextureDraw.cpp
+d:\visual studio\source\vs2017repos\test\sfml-game\sfml-game\sfml-game\texturedraw.cpp(1): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
