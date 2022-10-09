@@ -1,8 +1,3 @@
-//#include<SFML/Graphics.hpp>
-//#include<SFML/Audio.hpp>
-//#include<iostream>
-//#include<sstream>
-//#include "DrawTexture.h"
 #include "Game.h"
 
 int main()
